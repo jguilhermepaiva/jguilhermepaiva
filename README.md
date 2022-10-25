@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estagio com Front-end
 - 🌱 Estou estudando JavaScript e ReactJS
-- 😄 Pronome: Ele/dele
 
 <div align="center">
   <a href="https://github.com/jguilhermepaiva">
