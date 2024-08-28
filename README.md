@@ -1,8 +1,8 @@
 ### Olá eu sou o João Guilherme Paiva, estudante de Ciência da computação e apaixonado por tecnologia🧑‍💻
 
 - 🔭 Atualmente estagiando no V-Lab
-- 🌱 Desenvolvedor Front-End
-- ✨ Utilizo javascript e React Js
+- 🌱 Desenvolvedor FullStack
+- ✨ Utilizo Typescript e ReactJs
 
 <div align="center">
   <a href="https://github.com/jguilhermepaiva">
